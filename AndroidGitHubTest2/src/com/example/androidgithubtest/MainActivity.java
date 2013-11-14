@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         System.out.println("hio");
         System.out.println("hello");
+        System.out.println("hello");
         
     }
 
